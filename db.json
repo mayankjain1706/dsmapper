@@ -1,26 +1,27 @@
-  
-[{
-		"dsCode": "fsgbu-ob-cms-mn-enrich-corp",
-		"endPoint": "OBCMS.ENRICHCORP",
-		"domain": "OBCM",
-		"labelsMap": ["fsgbuobcmscommon", "fsgbuobcmsmnenrichcorp"]
-	},
-	{
-		"dsCode": "fsgbu-ob-cms-mn-enrich-product",
-		"endPoint": "OBCMS.ENRICHPROD",
-    "domain": "OBCM",
-		"labelsMap": ["fsgbuobcmscommon", "fsgbuobcmsmnenrichpickup"]
-	},
-	{
-		"dsCode": "fsgbu-ob-cms-mn-enrich-pooling",
-		"endPoint": "OBCMS.ENRICHPOOLING",
-    "domain": "OBCM",
-		"labelsMap": ["fsgbuobcmscommon", "fsgbuobcmsmnenrichpooling"]
-	},
-	{
-		"dsCode": "fsgbu-ob-cms-mn-enrich-pickup",
-		"endPoint": "OBCMS.ENRICHPICKUP",
-    "domain": "OBCM",
-		"labelsMap": ["fsgbuobcmscommon", "fsgbuobcmsmnenrichproduct"]
-	}
-]
+{
+	"response": [{
+			"dsCode": "fsgbu-ob-cms-mn-enrich-corp",
+			"endPoint": "OBCMS.ENRICHCORP",
+			"domain": "OBCM",
+			"labelsMap": ["fsgbuobcmscommon", "fsgbuobcmsmnenrichcorp"]
+		},
+		{
+			"dsCode": "fsgbu-ob-cms-mn-enrich-product",
+			"endPoint": "OBCMS.ENRICHPROD",
+			"domain": "OBCM",
+			"labelsMap": ["fsgbuobcmscommon", "fsgbuobcmsmnenrichpickup"]
+		},
+		{
+			"dsCode": "fsgbu-ob-cms-mn-enrich-pooling",
+			"endPoint": "OBCMS.ENRICHPOOLING",
+			"domain": "OBCM",
+			"labelsMap": ["fsgbuobcmscommon", "fsgbuobcmsmnenrichpooling"]
+		},
+		{
+			"dsCode": "fsgbu-ob-cms-mn-enrich-pickup",
+			"endPoint": "OBCMS.ENRICHPICKUP",
+			"domain": "OBCM",
+			"labelsMap": ["fsgbuobcmscommon", "fsgbuobcmsmnenrichproduct"]
+		}
+	]
+}
